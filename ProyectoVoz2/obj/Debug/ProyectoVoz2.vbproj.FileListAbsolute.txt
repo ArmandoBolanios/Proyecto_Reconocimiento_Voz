@@ -1,0 +1,10 @@
+c:\users\hermann\documents\visual studio 2012\Projects\ProyectoVoz2\ProyectoVoz2\bin\Debug\ProyectoVoz2.exe.config
+c:\users\hermann\documents\visual studio 2012\Projects\ProyectoVoz2\ProyectoVoz2\bin\Debug\ProyectoVoz2.exe
+c:\users\hermann\documents\visual studio 2012\Projects\ProyectoVoz2\ProyectoVoz2\bin\Debug\ProyectoVoz2.pdb
+c:\users\hermann\documents\visual studio 2012\Projects\ProyectoVoz2\ProyectoVoz2\bin\Debug\ProyectoVoz2.xml
+c:\users\hermann\documents\visual studio 2012\Projects\ProyectoVoz2\ProyectoVoz2\obj\Debug\ProyectoVoz2.Form1.resources
+c:\users\hermann\documents\visual studio 2012\Projects\ProyectoVoz2\ProyectoVoz2\obj\Debug\ProyectoVoz2.Resources.resources
+c:\users\hermann\documents\visual studio 2012\Projects\ProyectoVoz2\ProyectoVoz2\obj\Debug\ProyectoVoz2.vbproj.GenerateResource.Cache
+c:\users\hermann\documents\visual studio 2012\Projects\ProyectoVoz2\ProyectoVoz2\obj\Debug\ProyectoVoz2.exe
+c:\users\hermann\documents\visual studio 2012\Projects\ProyectoVoz2\ProyectoVoz2\obj\Debug\ProyectoVoz2.xml
+c:\users\hermann\documents\visual studio 2012\Projects\ProyectoVoz2\ProyectoVoz2\obj\Debug\ProyectoVoz2.pdb
